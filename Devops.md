@@ -64,6 +64,10 @@ Ran terraform apply after everything appear to be okay and the resources were cr
 * checked the webpage from the browser
 * ![image](https://user-images.githubusercontent.com/101482368/163443956-f824e7a6-a116-40b4-ac67-d39ba36685c6.png)
 
+##################
+Destroyed the resources and services created using "terraform destroy" command
+![image](https://user-images.githubusercontent.com/101482368/163446529-b3cc7e3d-5090-4bfd-9765-dffc5f2b2d15.png)
+
 
 
 
